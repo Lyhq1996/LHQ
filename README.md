@@ -1,3 +1,3 @@
 # LHQ
 
-Data Engineering Assignment : Recommendation System
+Data Engineering Assignment : Movie Recommendation System
